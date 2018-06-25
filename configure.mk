@@ -1,2 +1,2 @@
-CONF_INCS=-I/opt/local/include/
-CONF_LIBS=-L/opt/local/lib/
+CONF_INCS=-I/usr/include/
+CONF_LIBS=-L/usr/lib/
